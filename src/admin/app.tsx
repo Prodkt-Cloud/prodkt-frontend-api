@@ -40,6 +40,9 @@ export default {
         'Auth.form.button.login.strapi': 'Login with Prodkt',
         'Auth.form.welcome.title': 'Welcome to Prodkt',
         'Auth.form.welcome.subtitle': 'Login to your Prodkt Administrator account',
+        'app.components.HomePage.welcomeBlock.content': 'A CMS suite for Prodkt applications that will extend with it valid REST and GraphQL APIs.',
+        'app.components.HomePage.welcome.again': 'Welcome to Prodkt',
+        'app.components.HomePage.welcome': 'Welcome to Prodkt',
       },
     },
    // Disable video tutorials
