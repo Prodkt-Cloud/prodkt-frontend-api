@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_ui_landing_page_hero_headers",
+  "info": {
+    "displayName": "Landing Page Hero Header",
+    "icon": "campground",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string",
+      "required": true,
+      "pluginOptions": {
+        "deepl": {
+          "translate": "translate"
+        }
+      }
+    },
+    "Subheading": {
+      "type": "text",
+      "pluginOptions": {
+        "deepl": {
+          "translate": "translate"
+        }
+      }
+    }
+  }
+}
