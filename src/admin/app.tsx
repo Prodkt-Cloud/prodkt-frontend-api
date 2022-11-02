@@ -43,6 +43,12 @@ export default {
         'app.components.HomePage.welcomeBlock.content': 'A CMS suite for Prodkt applications that will extend with it valid REST and GraphQL APIs.',
         'app.components.HomePage.welcome.again': 'Welcome to Prodkt',
         'app.components.HomePage.welcome': 'Welcome to Prodkt',
+        'app.components.LeftMenu.plugins': 'Prodkt Plugins',
+        'app.components.LeftMenuLinkContainer.plugins': 'Prodkt Plugins',
+        'global.plugins': 'Prodkt Plugins',
+        'admin.pages.MarketPlacePage.tab-group.label': 'Plugins and Providers for Prodkt',
+        'admin.pages.MarketPlacePage.subtitle': 'Extend Prodkt with plugins and providers',
+        'global.marketplace': 'Prodkt App Store',
       },
     },
    // Disable video tutorials
