@@ -1,10 +1,16 @@
 
-
+import AuthLogo from './extensions/prodkt-logo.svg';
+import MenuLogo from './extensions/favicon.png';
 import favicon from './extensions/favicon.png';
 
 export default {
   config: {
-
+    auth: {
+    logo: AuthLogo,
+    },
+    menu: {
+    logo: MenuLogo,
+    },
     head: {
       favicon: favicon,
     },
