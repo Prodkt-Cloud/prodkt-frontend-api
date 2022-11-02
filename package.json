@@ -1,0 +1,30 @@
+{
+  "name": "tovuti-api",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@strapi/strapi": "4.4.6",
+    "@strapi/plugin-users-permissions": "4.4.6",
+    "@strapi/plugin-i18n": "4.4.6",
+    "mysql": "2.18.1"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "503bac2f-c2e3-4ea5-a7c3-50b0357a9ea4"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=18.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}

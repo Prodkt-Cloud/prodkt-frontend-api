@@ -1,0 +1,19 @@
+
+{
+  "extends": "@strapi/typescript-utils/tsconfigs/admin",
+  "compilerOptions": {
+    // "forceConsistentCasingInFileNames": true,
+    "strict": false,
+  },
+  "include": [
+    "../plugins/**/admin/src/**/*",
+    "./",
+    "../index.d.ts"
+  ],
+  "exclude": [
+    "node_modules/",
+    "build/",
+    "dist/",
+    "**/*.test.ts"
+  ],
+}
